@@ -11,22 +11,28 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
+    [Good visualization]
+    The Muslim population in Canada
+    https://www150.statcan.gc.ca/n1/pub/11-627-m/11-627-m2024058-eng.htm
 
+    The infographic was created by Statistics Canada. I selected this graph as a good example of visualization for the following three reasons. First, from an aesthetic perspective, the colours used in the graph were easy to recognize, and each colour represented a different meaning, such as age groups. The legends and narratives next to the graphs are well-defined and easy to identify. Using flags to represent each country of birth is straightforward. The use of horizontal bar charts for the languages spoken is easy to read in order. The font and size of the graph were also well chosen, despite the fact that the graph had quite a lot of information to communicate to the general public. Second, from a substantive perspective, the four graphs clearly illustrate the topics. They provide information on the numerator and denominator, enabling the audience to compare across Canada or by age group. Thirdly, from a perceptual standpoint, the message conveyed by the graph is clear. The audience can easily understand the 
+    basic sociodemographic characteristics of the Muslim population in Canada. 
+    
+    [Bad visualization] 
 
+    https://public.tableau.com/app/profile/ikeda.tsutomu/viz/MOM2026WEEK3WomenConductorsonBroadway/1_1
+    I selected the graph above as a poor example for the following reasons. First, although the graph uses a bright, vivid colour that immediately evokes Broadway, the dense cluster of golden dots makes it feel like a supporting role rather than the centre of the infographic. Also, two dots are positioned far from the others, making the graph unbalanced and confusing. The legend font size is too small to read. Second, the data may not accurately reflect the timeline, as there is no indication of exactly when the first production started or ended. The size of each dot/circle is not clearly presented. Also, the connection between the historical event and the dots is not clearly presented. For each dot, we do not know the denominator, for example, whether this is a large production that has many people, so that there are more women in the leadership roles. It is difficult to compare across different productions. Lastly, we can have a basic understanding that more women are in leadership roles on Broadway nowadays than in the early 20th century, and that some key pioneers in the history of women on Broadway. However, the information provided is limited and can be misleading. 
 
-
-
-
+    Reference:
+    Wang, Fan (2026, ). Data Visualization: Choosing the Right Visualization [PowerPoint slides]. University of Toronto. visualization/01_materials/slides/04_choosing_the_right_visualization.pdf at main · UofT-DSI/visualization
 
       ```
     - How could this data visualization have been improved?  
       ```
       Your answer...
 
-
-
-
-
+      I suggested four ways to improve the graph. 
+      First, add a timeline beneath the dots/circles to clearly indicate the start and end times of the graph. Second, increase the legend font size and provide more detailed information for each dot. Third, it may be helpful to present the percentage of leadership roles held by women, taking into account the size of each production. Lastly, it is critical to define what leadership means in the graph.
 
       
       ```
